@@ -1,5 +1,4 @@
 
-
 St Patrick (0317)                                | St Andrew (1130)
 Shamrock, Uxx fry, 3% pop                        | Thistle, Haggie, 8% pop
 90 MLA, Stormont, via Education service / MLA    | 129 MSP, Holyrood, via Visitor service
@@ -8,6 +7,7 @@ Shamrock, Uxx fry, 3% pop                        | Thistle, Haggie, 8% pop
                                                  | 1606 1st Union flag
 1801 Act of Union, Union Jack                    | 1707 Treaty of Union
 1922 split into 2 countries, Parliament formed   | 1999 Parliament formed 
+1949 republic                                    |
 -------------------------------------------------+-----------------------------------
 St David (0301)                                  | St George (0423) 
 Danfoil, Welsh cake, 5% pop                      | Rose, roasted beef, 84% pop
@@ -89,7 +89,7 @@ Victoria 1837-1901
 1689  Bills of right
 1695  free press
 
-1746  Battle of Culloden, King George II vs Clan from Scotland
+1746  Battle of Culloden, King George II vs Clan from Scotland (support Bonnie Prince Charlie)
 
 1776    declared independence by 13 American states 
 1783  recognised independence by UK
@@ -161,9 +161,16 @@ Gustav Holst                  ---> Planet
 Roland Joffé                  ---> Killing field
 Joseph Turner                 ---> raised profile of landscape painting
 Thomas Gainsborough           ---> paint / painted people in country 
-William Wordsworth            ---> poems / inspired by nature
+William Wordsworth            ---> poems / inspired by nature, Daffodils
 Wilfred Owen and Sieg Sassoon ---> poems / WWII
 Sir Walter Scott              ---> poems / border of scotland and england
+David Hockney                 ---> 1960 pop art
+John Logie Baird              ---> invent TV
+Frank Whitte                  ---> invent Jet engine
+Sir Roger Bannister           ---> 1 mile in 4 min
+Edward Elgar                  ---> musician
+William Wilberforce           ---> politian
+
 
 1969 Concorde first flight
 1976 Concorde first flight carrying passenger
@@ -179,7 +186,7 @@ Sir Walter Scott              ---> poems / border of scotland and england
 18xx   Chartists    : supporter to demand the vote
 18xx   Suffragettes
 17xx   Quakers      : anti slavery
-
+18xx   Fenians      : Ireland independence
 
 
 *************
